@@ -5,9 +5,13 @@
 - ## Python
   - 1
   - 2
+- ## Database Analysis
+  - 1
+  - 2
+
 - ## Machine Learning
   - 1
   - 2
-- ## Bachelor's Thesis
+- ## Deep Learning
   - 1
   - 2
