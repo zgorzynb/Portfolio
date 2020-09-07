@@ -13,3 +13,6 @@
 - ## Deep Learning
   - 1 Praca inżynierska
   - 2 #TODO
+  
+  # Skills
+  
