@@ -1,4 +1,4 @@
-# Data Science Portfolio
+Data Science Portfolio
 
 # Contents
 
@@ -13,6 +13,6 @@
 - ## Deep Learning
   - 1 Praca inżynierska
   - 2 #TODO
-  
-  # Skills
+
+# Skills
   
