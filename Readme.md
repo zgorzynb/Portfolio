@@ -5,12 +5,8 @@
 - ## Python
   - 1 #TODO
   - 2 My own programming language
-  
-- ## Database Analysis
-  - 1 #TODO
-  - 2 #TODO
 
-- ## Machine Learning
+- ## Machine Learning and Data Analysis
   - 1 #TODO
   - 2 #TODO
   
