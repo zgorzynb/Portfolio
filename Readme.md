@@ -16,7 +16,7 @@ Jest dostępne tu.
   
 - ## Deep Learning
   - 1 Praca inżynierska
-  - 2 #TODO
+  - 2 Bee or wasp?
 
 # Skills
   
