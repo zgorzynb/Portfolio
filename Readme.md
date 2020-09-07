@@ -1,6 +1,10 @@
 # Data Science Portfolio
 
-# Contents
+# Resume
+
+Jest dostępne tu.
+
+# Projects
 
 - ## Python
   - 1 #TODO
