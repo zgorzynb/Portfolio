@@ -7,8 +7,9 @@
 # Projects
 
 - ## Python
-  - 1 #TODO
-  - 2 My own programming language
+  - #TODO
+  - ###My own programming language
+    -
 
 - ## Machine Learning and Data Analysis
   - 1 SOLAR POWER GENERATION DATA #TODO
