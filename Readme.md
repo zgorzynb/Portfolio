@@ -1,8 +1,8 @@
 # Data Science Portfolio
 
-## My name is Bartłomiej Zgórzyński and I am looking for a job or internship as a Data Scientist/ Machine Learning Engineer/ Computer Vision Engineer.
-## My resume is available here.
-## This repository was created to show my programming skills.
+#### My name is Bartłomiej Zgórzyński and I am looking for a job or internship as a Data Scientist/ Machine Learning Engineer/ Computer Vision Engineer.
+#### My resume is available here.
+#### This repository was created to show my programming skills.
 
 # Projects
 
