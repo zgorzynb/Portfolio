@@ -16,12 +16,12 @@
       - LLVM
 
 - ## Machine Learning and Data Analysis
-  - 1 SOLAR POWER GENERATION DATA #TODO
-  - 2 #TODO
+  - ### SOLAR POWER GENERATION DATA #TODO
+  - ### TODO
   
 - ## Deep Learning
-  - 1 Praca inżynierska
-  - 2 Bee or wasp?
+  - ### Praca inżynierska
+  - ### Bee or wasp?
 
 # Skills
   
