@@ -14,14 +14,13 @@
       - Python
       - ANTLR
       - LLVM
-
 - ## Machine Learning and Data Analysis
-  - ### SOLAR POWER GENERATION DATA #TODO
+  - ### Solar power generation data TODO
   - ### TODO
   
 - ## Deep Learning
   - ### Praca inżynierska
-  - ### Bee or wasp?
+  - ### Bee or wasp? TODO
 
 # Skills
   
