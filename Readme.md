@@ -7,7 +7,7 @@
 # Projects
 
 - ## Python
-  - #TODO
+  - ### TODO
   - ### My own programming language
     The project consists in creating the syntax and compiler of a new programming language. For this purpose, a parser generator was used.
     Technologies used in this project:
