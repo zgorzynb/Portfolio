@@ -14,14 +14,19 @@
       - Python
       - ANTLR
       - LLVM
-
 - ## Machine Learning and Data Analysis
-  - 1 SOLAR POWER GENERATION DATA #TODO
-  - 2 #TODO
+  - ### Solar power generation data TODO
+  - ### TODO
   
 - ## Deep Learning
-  - 1 Praca inżynierska
-  - 2 Bee or wasp?
+  - ### Car detection
+  - ### Car model classification
+    Technologies used in this project:
+      - Python
+      - numpy
+      - Tensorflow and Keras
+      - Pillow
+  - ### Bee or wasp? TODO
 
 # Skills
   
