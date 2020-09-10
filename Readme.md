@@ -19,7 +19,8 @@
   - ### TODO
   
 - ## Deep Learning
-  - ### Praca inżynierska
+  - ### Car detection
+  - ### Car model classification
   - ### Bee or wasp? TODO
 
 # Skills
