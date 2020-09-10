@@ -21,6 +21,11 @@
 - ## Deep Learning
   - ### Car detection
   - ### Car model classification
+    Technologies used in this project:
+      - Python
+      - numpy
+      - Tensorflow and Keras
+      - Pillow
   - ### Bee or wasp? TODO
 
 # Skills
