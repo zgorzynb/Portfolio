@@ -19,12 +19,6 @@
       - sklearn
   
 - ## Deep Learning
-  - ### Car detection TODO
-    Technologies used in this project:
-      - Python
-      - numpy
-      - Tensorflow and Keras
-      - Pillow
   - ### Car model classification TODO
     Technologies used in this project:
       - Python
