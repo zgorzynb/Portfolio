@@ -17,9 +17,8 @@
       - Pandas
       - numpy
       - sklearn
-  
 - ## Deep Learning
-  - ### Car detection TODO
+  - ### Bee or wasp? TODO
     Technologies used in this project:
       - Python
       - numpy
@@ -31,12 +30,7 @@
       - numpy
       - Tensorflow and Keras
       - Pillow
-  - ### Bee or wasp? TODO
-    Technologies used in this project:
-      - Python
-      - numpy
-      - Tensorflow and Keras
-      - Pillow
+
   - ### MNIST TODO
     Technologies used in this project:
       - Python
