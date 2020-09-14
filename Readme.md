@@ -17,20 +17,20 @@
       - Pandas
       - numpy
       - sklearn
-  
 - ## Deep Learning
-  - ### Car model classification TODO
-    Technologies used in this project:
-      - Python
-      - numpy
-      - Tensorflow and Keras
-      - Pillow
   - ### Bee or wasp? TODO
     Technologies used in this project:
       - Python
       - numpy
       - Tensorflow and Keras
       - Pillow
+  - ### Car model classification TODO
+    Technologies used in this project:
+      - Python
+      - numpy
+      - Tensorflow and Keras
+      - Pillow
+
   - ### MNIST TODO
     Technologies used in this project:
       - Python
