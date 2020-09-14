@@ -8,7 +8,7 @@
 
 - ## Machine Learning and Data Analysis
   - ### Solar power generation data TODO
-  - ### TODO
+  - ### TITANIC
   
 - ## Deep Learning
   - ### Car detection
@@ -19,9 +19,9 @@
       - Tensorflow and Keras
       - Pillow
   - ### Bee or wasp? TODO
+  - ### MNIST
   
   - ## Others
-    - ### TODO
     - ### My own programming language
       The project consists in creating the syntax and compiler of a new programming language. For this purpose, a parser generator was used.
       Technologies used in this project:
