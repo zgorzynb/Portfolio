@@ -8,26 +8,53 @@
 
 - ## Machine Learning and Data Analysis
   - ### Solar power generation data TODO
-  - ### TITANIC
+    Technologies used in this project:
+      - Python
+      - Pandas
+  - ### TITANIC TODO
+    Technologies used in this project:
+      - Python
+      - Pandas
+      - numpy
+      - sklearn
   
 - ## Deep Learning
-  - ### Car detection
-  - ### Car model classification
+  - ### Car detection TODO
+    Technologies used in this project:
+      - Python
+      - numpy
+      - Tensorflow and Keras
+      - Pillow
+  - ### Car model classification TODO
     Technologies used in this project:
       - Python
       - numpy
       - Tensorflow and Keras
       - Pillow
   - ### Bee or wasp? TODO
-  - ### MNIST
+    Technologies used in this project:
+      - Python
+      - numpy
+      - Tensorflow and Keras
+      - Pillow
+  - ### MNIST TODO
+    Technologies used in this project:
+      - Python
+      - numpy
+      - Tensorflow and Keras
+      - Pillow
   
-  - ## Others
-    - ### My own programming language
-      The project consists in creating the syntax and compiler of a new programming language. For this purpose, a parser generator was used.
-      Technologies used in this project:
-        - Python
-        - ANTLR
-        - LLVM
+- ## Others
+  - ### My own programming language TODO
+    The project consists in creating the syntax and compiler of a new programming language. For this purpose, a parser generator was used.
+    Technologies used in this project:
+      - Python
+      - ANTLR
+      - LLVM
 
 # Skills
+
+- ## Technical skills
+
+- ## Soft skills
   
