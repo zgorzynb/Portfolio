@@ -5,6 +5,29 @@
 
 # Projects
 
+- ## Deep Learning
+
+  - ### Car model classification
+
+    Part of my bachelor thesis. Car model classification in the image.
+
+    Technologies used in this project:
+
+      - Python
+      - numpy
+      - Tensorflow and Keras
+      - Pillow
+
+  - ### MNIST 
+
+    The use of neural networks to classify an image containing a number.
+
+    Technologies used in this project:
+
+      - Python
+      - numpy
+      - PyTorch
+
 - ## Machine Learning and Data Analysis
   - ### Solar power generation data
     Data analysis and visualization for two solar power plants.
@@ -21,24 +44,6 @@
       - Pandas
       - numpy
       - sklearn
-- ## Deep Learning
-  - ### Car model classification
-    Part of my bachelor thesis. Car model classification in the image.
-    
-    Technologies used in this project:
-      - Python
-      - numpy
-      - Tensorflow and Keras
-      - Pillow
-
-  - ### MNIST 
-    The use of neural networks to classify an image containing a number.
-  
-    Technologies used in this project:
-      - Python
-      - numpy
-      - PyTorch
-  
 - ## Others
   - ### My own programming language TODO
     The project consists in creating the syntax and compiler of a new programming language. For this purpose, a parser generator was used.
