@@ -43,9 +43,20 @@
       - PyTorch
 
 - ## Machine Learning and Data Analysis
+  
+  - ### House Price Prediction
+  
+    Testing feature selection methods on given dataset.
+  
+    Methods tested in this project:
+  
+      - Backward Elimination
+      - Forward Selection
+      - Lasso
+  
   - ### Solar power generation data
     Data analysis and visualization for two solar power plants.
-    
+  
     Technologies used in this project:
       - Python
       - Pandas
@@ -58,6 +69,7 @@
       - Pandas
       - numpy
       - sklearn
+  
 - ## Others
   - ### My own programming language
     The project consists in creating the syntax and compiler of a new programming language. For this purpose, parser generator was used.
