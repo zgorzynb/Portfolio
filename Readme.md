@@ -45,13 +45,27 @@
       - numpy
       - sklearn
 - ## Others
-  - ### My own programming language TODO
-    The project consists in creating the syntax and compiler of a new programming language. For this purpose, a parser generator was used.
+  - ### My own programming language
+    The project consists in creating the syntax and compiler of a new programming language. For this purpose, parser generator was used.
     
     Technologies used in this project:
       - Python
       - ANTLR
       - LLVM
+    
+  - ### PostgreSQL Database
+  
+    The project required creating a database and filling it with data. For this purpose, the PostgreSQL database management system was chosen. I posted a database backup on my github.
+  
+    PostgreSQL elements used in this project:
+  
+      - Primary and foreign keys
+      - Views
+      - Indexes
+      - Functions
+      - Procedures
+      - Triggers
+      - Users
 
 # Skills
 
