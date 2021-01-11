@@ -18,6 +18,20 @@
       - Tensorflow and Keras
       - Pillow
 
+  - ### Human-Object Interaction
+
+    Checking the resistance of the Dual Relation Graph method to image distortions.
+
+    My code will be available soon.
+
+    Based on [this code](https://github.com/vt-vl-lab/DRG). Paper available [here](https://arxiv.org/abs/2008.11714).
+
+    Technologies used in this project:
+
+      - Python
+      - PyTorch
+      - numpy
+
   - ### MNIST 
 
     The use of neural networks to classify an image containing a number.
