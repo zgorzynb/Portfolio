@@ -102,7 +102,9 @@
   - numpy
   - PyTorch
   - SQL
+  - PostgreSQL
   - Machine and Deep Learning Knowledge
+  - AI services on Microsoft Azure
 
 - ## Soft skills
   - team player
